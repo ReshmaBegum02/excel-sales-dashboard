@@ -1,6 +1,6 @@
 # Excel Sales Performance Dashboard
 
-Interactive Excel dashboard built using Pivot Tables, Charts, and Slicers to analyze sales performance across regions, categories, and managers.
+Interactive Excel Sales Performance Dashboard built with Pivot Tables, Charts, and Slicers for business insights.
 
 ## Dashboard Preview
 
