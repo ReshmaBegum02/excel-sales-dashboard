@@ -4,7 +4,8 @@ Interactive Excel dashboard built using Pivot Tables, Charts, and Slicers to ana
 
 ## Dashboard Preview
 
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard Preview](Dashboard-preview.png)
+
 
 ## Features
 
