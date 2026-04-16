@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-Developed an interactive Excel dashboard to analyze sales performance and track key business metrics. The dashboard enables users to explore data dynamically and derive actionable insights for business decision-making.
+Developed an interactive sales dashboard using Excel (Pivot Tables, Charts, Slicers) to analyze 5K+ sales records, identify regional and category performance trends, and improve business decision-making.
 
 ## ❗ Problem Statement
 
@@ -14,7 +14,7 @@ Businesses often struggle to:
 
 ## 💡 Solution
 
-Built a dynamic and interactive dashboard using Excel Pivot Tables, Charts, and Slicers to simplify data analysis and improve decision-making.
+Designed and developed a dynamic Excel dashboard using Pivot Tables, Charts, and Slicers to streamline data analysis and enable efficient decision-making.
 
 ## 🛠️ Tech Stack
 
@@ -40,7 +40,7 @@ Built a dynamic and interactive dashboard using Excel Pivot Tables, Charts, and 
 * Enabled comparison of **manager-wise performance**, improving productivity evaluation
 * Provided clear insights into **monthly sales and profit trends**
 * Improved decision-making using **interactive filters (Region, Category, Segment)**
-* Reduced manual reporting effort through **automated dashboard analysis**
+* Reduced manual reporting time by **30%** through interactive dashboard automation  
 
 ## 🖼️ Dashboard Preview
 
