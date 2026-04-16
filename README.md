@@ -44,7 +44,9 @@ Designed and developed a dynamic Excel dashboard using Pivot Tables, Charts, and
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Preview](Dashboard-preview.png)
+## 📥 Download Dashboard  
+
+[Click here to download Excel Dashboard](excel-sales-performance-dashboard.xlsx)
 
 ## 🎯 Project Purpose
 
