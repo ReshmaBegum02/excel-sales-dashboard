@@ -1,6 +1,6 @@
 📊 Excel Sales Performance Dashboard
 
-![Dashboard](excel-dashboard.png)
+Dashboard-preview.png
 
 📌 Project Overview
 
